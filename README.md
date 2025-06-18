@@ -19,10 +19,6 @@ A modern, responsive currency converter web application that allows users to con
 - Font Awesome Icons
 - Flags API for currency flags
 
-## Live Demo
-
-[Add your live demo link here]
-
 ## Setup
 
 1. Clone the repository
@@ -33,7 +29,3 @@ A modern, responsive currency converter web application that allows users to con
 
 - Currency API: https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api
 - Flags API: https://flagsapi.com
-
-## Screenshots
-
-[Add screenshots here]
